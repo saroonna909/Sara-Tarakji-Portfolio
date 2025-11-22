@@ -4,11 +4,11 @@ Here are some screenshots from my app.
 
 interface
 
-[capture_20251122053511704.bmp](https://github.com/user-attachments/files/23686555/capture_20251122053511704.bmp)
+![capture_20251122053511704.bmp](https://github.com/user-attachments/files/23686555/capture_20251122053511704.bmp)
 
 quiz
 
-[capture_20251122053553124.bmp](https://github.com/user-attachments/files/23686556/capture_20251122053553124.bmp)
+![capture_20251122053553124.bmp](https://github.com/user-attachments/files/23686556/capture_20251122053553124.bmp)
 
 ---
 
