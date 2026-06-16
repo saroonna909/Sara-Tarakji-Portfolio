@@ -22,13 +22,8 @@ Database: SQLite
 Deployment Tools: Ngrok (Secure Tunneling)
 
 📸 Project Preview
-![capture_20260228134712726.bmp](https://github.com/user-attachments/files/25620763/capture_20260228134712726.bmp)
+![photo_1_2026-06-16_19-53-03.jpg](<img width="1268" height="739" alt="photo_1_2026-06-16_19-53-03" src="https://github.com/user-attachments/assets/d6548176-2a42-49c2-952a-3ade377be527" />)
 
-![capture_20260228134841097.bmp](https://github.com/user-attachments/files/25620766/capture_20260228134841097.bmp)
+<video src="https://github.com/user-attachments/assets/0687e5a9-96ef-4ac4-b498-4e838bd80811" controls="controls" width="100%"></video>
 
-![capture_20260228134750656.bmp](https://github.com/user-attachments/files/25620764/capture_20260228134750656.bmp)
-
-![capture_20260228134853379.bmp](https://github.com/user-attachments/files/25620762/capture_20260228134853379.bmp)
-
-
-Note: The source code for this project is kept in a private repository for security and academic integrity.
+Note: The source code for this project is kept in a private repository for security integrity.
