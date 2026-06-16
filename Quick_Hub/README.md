@@ -22,7 +22,8 @@ Database: SQLite
 Deployment Tools: Ngrok (Secure Tunneling)
 
 📸 Project Preview
-![photo_1_2026-06-16_19-53-03.jpg](<img width="1268" height="739" alt="photo_1_2026-06-16_19-53-03" src="https://github.com/user-attachments/assets/d6548176-2a42-49c2-952a-3ade377be527" />)
+
+<img src="https://github.com/user-attachments/assets/d6548176-2a42-49c2-952a-3ade377be527" alt="معاينة واجهة مشروع Quick Hub" width="100%" />
 
 <video src="https://github.com/user-attachments/assets/0687e5a9-96ef-4ac4-b498-4e838bd80811" controls="controls" width="100%"></video>
 
