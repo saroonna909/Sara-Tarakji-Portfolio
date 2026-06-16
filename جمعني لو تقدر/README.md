@@ -2,7 +2,9 @@
 
 A collaborative fun game developed with my team using Unity.
 
-![photo_2025-11-22_07-19-09](https://github.com/user-attachments/assets/d8f6787a-e98d-486c-b03a-73adad0c8208)
+<video src="https://github.com/user-attachments/assets/cf7562cc-6dc5-43ae-ab57-fb4c73934992" controls="controls" width="100%">
+</video>
+
 
 ---
 
